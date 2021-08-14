@@ -1,0 +1,14 @@
+.title{
+    padding: 5px;
+    font-weight: 800;
+    color: transparent;
+    font-size: 120px;
+    /* background: url(../images/collage.png) repeat; */
+    background-position: center center;
+    background-size: 200%;
+    -webkit-background-clip: text;
+    position: relative;
+    text-align: center;
+    line-height: 90px;
+    letter-spacing: -8px;
+}

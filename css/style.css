@@ -9286,6 +9286,29 @@ textarea.form-control {
   .ftco-media.text-center .ftco-icon {
     margin: 0 auto; }
 
+
+.s-130
+{
+  font-size: 9em !important;
+}
+
+.collage-pensilvania
+{
+
+  padding: 5px;
+  font-weight: 800;
+  color: transparent;
+  font-size: 120px;
+  background: url(../images/collage.png) repeat !important;
+  background-position: center center;
+  background-size: 200%;
+  -webkit-background-clip: text;
+  position: relative;
+  text-align: center;
+  line-height: 90px;
+  letter-spacing: -8px;
+}
+
 .heading-section .subheading {
   font-size: 18px;
   display: inline-block;
