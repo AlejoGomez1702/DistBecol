@@ -2,7 +2,7 @@
     padding: 5px;
     font-weight: 800;
     color: transparent;
-    font-size: 120px;
+    font-size: 10rem;
     /* background: url(../images/collage.png) repeat; */
     background-position: center center;
     background-size: 200%;
@@ -11,4 +11,16 @@
     text-align: center;
     line-height: 90px;
     letter-spacing: -8px;
+}
+
+@media (max-width: 600px) {
+    .txt-header
+    {
+        font-size: 100%;
+    }
+}
+
+.txt-zoom
+{
+    font-size:10vw;
 }
